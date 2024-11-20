@@ -18,6 +18,4 @@ As showing in the below image, there is a slider to adjust the difficulty of the
 slider, then the depth of the minimax algorithm will change.
 The following figure shows the slider which is for adjusting the level of difficulty:
 
-
-
-![Actual vs Predicted](img/difficulity.png)
+![difficulity](img/difficulity.png)
