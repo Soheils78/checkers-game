@@ -17,4 +17,4 @@ moving to the available places, and then the AI responds with its moves.
 As showing in the below image, there is a slider to adjust the difficulty of the game. By changing the
 slider, then the depth of the minimax algorithm will change.
 The following figure shows the slider which is for adjusting the level of difficulty:
-![Actual vs Predicted](img/Screenshot 2024-11-20 at 16.21.07.png)
+![Actual vs Predicted]([img/Screenshot 2024-11-20 at 16.21.07.png](https://github.com/Soheils78/checkers-game/blob/main/img/Screenshot%202024-11-20%20at%2016.21.07.png))
