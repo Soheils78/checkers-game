@@ -25,6 +25,12 @@ The following figure shows the slider which is for adjusting the level of diffic
 
 Pieces are promoted to kings upon reaching the opponent's end. The following figure represents how the piece will become the king:
 
-<img src="img/king.png" alt="difficulity" width="480" height="auto">
+<img src="img/king.png" alt="King" width="480" height="auto">
 
+4. **Capture Rules**:
+
+Normal pieces can capture kings. Then, that normal pieces will become a King pieces. The image below shows this feature: 
+
+
+<img src="img/capture.png" alt="capture rule" width="480" height="auto">
    
