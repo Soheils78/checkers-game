@@ -33,4 +33,12 @@ Normal pieces can capture kings. Then, that normal pieces will become a King pie
 
 
 <img src="img/capture.png" alt="capture rule" width="480" height="auto">
+
+
+## How To Play the Game
+
+1. **Move Pieces**: Click on your red pieces to highlight possible moves and select the destination. As showing ont he following figure, when you click on the the red pieces then the available places will highlight.
+
+<img src="img/moves.png" alt="moves rule" width="480" height="auto">
+
    
