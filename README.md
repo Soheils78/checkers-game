@@ -11,6 +11,7 @@ This is a Python-based Checkers game with a GUI built by using Tkinter. In this 
 img folder (Contains the images for describting the game on this file)
 
 ## Features of the Game: 
+
 1. **Human User plays against AI player**: 
 
 The GUI of the game provides an interactive gameplay environment which user
