@@ -41,4 +41,14 @@ Normal pieces can capture kings. Then, that normal pieces will become a King pie
 
 <img src="img/moves.png" alt="moves rule" width="480" height="auto">
 
+2. **Win the Game**: Capture all the opponent's pieces or block their possible moves.
+
+3. **Adjust Difficulty**: Use the slider to set AI difficulty before starting.
+
+
+## Requirements
+- Python 3.x
+- Tkinter (built into most Python distributions)
+
+
    
