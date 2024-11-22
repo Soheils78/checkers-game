@@ -3,7 +3,7 @@
  
 This is a Python-based Checkers game with a GUI built by using Tkinter. In this game a user player plays against an AI opponent with adjustable difficulty levels.
 
-##Project Structure 
+## Project Structure:
 
 `checkers.py` (The main Python script or code of the game)
 
