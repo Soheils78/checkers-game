@@ -1,7 +1,23 @@
-# checkers Game
+# Checkers Game
 
- 
-This is a Python-based Checkers game with a GUI built by using Tkinter. In this game a user player plays against an AI opponent with adjustable difficulty levels.
+This Python-based Checkers game is implemented using a combination of algorithms and techniques designed for board game logic and artificial intelligence. The main highlights are:
+
+## Implementation Details
+- **Minimax Algorithm with Alpha-Beta Pruning**:
+  - The AI player is powered by the Minimax algorithm, which evaluates all possible moves to choose the best one based on a scoring function. Alpha-beta pruning is used to optimize performance by eliminating branches of the search tree that won't affect the final decision.
+  - **Heuristic Evaluation**: The evaluation function assigns scores based on the number of pieces, kings, and strategic positions, ensuring the AI makes intelligent moves.
+
+- **Simulated Moves and Capture Logic**:
+  - Moves are simulated on a duplicate board to calculate their outcomes without altering the original board state.
+  - Capturing mechanics follow traditional Checkers rules, including multi-jump sequences and piece promotion to kings.
+
+- **King Promotion Rules**:
+  - Pieces are promoted to kings upon reaching the opponent's back row, enabling them to move both forward and backward.
+
+- **GUI with Tkinter**:
+  - The game's graphical interface is built using Python's Tkinter library. It provides an interactive board where players can click to make moves and view possible actions.
+  - Highlights valid moves to assist players during gameplay.
+
 
 ## Project Structure:
 
