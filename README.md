@@ -85,4 +85,9 @@ Normal pieces can capture kings. Then, that normal pieces will become a King pie
    cd checkers-game
  3. Run the Game:
     ``` bash
-    python checkers.py 
+    python checkers.py
+
+
+## Author
+
+ This project was implemented by Soheil Salemi.
