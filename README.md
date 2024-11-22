@@ -63,7 +63,10 @@ Normal pieces can capture kings. Then, that normal pieces will become a King pie
 ## How to Run 
 1. Clone the repository
    ``` bash
-   git clone https://github.com/your-username/checkers-game.git
+   git clone https://github.com/your-username/checkers-game.git bash```
+
+ 
+   
 
 
    
